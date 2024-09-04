@@ -1,7 +1,7 @@
-repository-name
-# Repository Name
+ollama
+# Ollama
 
-Based on "ABC" at https://www.abc.com/
+Based on "Amazing New VS Code AI Coding Assistant with Open Source Models" at https://www.youtube.com/watch?v=he0_W5iCv-I
 
 ## 100 - Introduction
 
